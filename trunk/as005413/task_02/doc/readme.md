@@ -1,3 +1,10 @@
+# Laboratory work No2
+# PID regulators
+### Completed by Sliunin Ivan
+### Task: Create program on c++ that will sumulate PID regulator using OOP 
+### PID regulator
+
+![alt text](img/1.png)
 
  ##### Solution:
  ###### The code:
@@ -167,3 +174,5 @@ int main()
 ![alt text](img/3.png)
 ###### Non-linear graph wt = 30
 ![alt text](img/5.png)
+
+
